@@ -3,7 +3,7 @@
 #### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/SureshKannan5/crud-operation/
+[git clone https://github.com/SureshKannan5/crud-operation/](https://github.com/SureshKannan5/crud-operation.git)
 ```
 
 ```bash
@@ -20,7 +20,7 @@ cd Task
 
 #### Step 3: Edit the Environment File
 
-- Check a file named .env in the /backend directory.
+- Check a file named .env in the /crud_sample directory.
 
   This file will store environment variables for the project to run.
 
@@ -34,7 +34,7 @@ Replace "your-mongodb-uri" with the actual URI of your MongoDB database.
 
 #### Step 5: Install Backend Dependencies
 
-In your terminal, navigate to the /backend directory
+In your terminal, navigate to the /crud_sample directory
 
 ```bash
 cd backend
@@ -50,7 +50,7 @@ This command will install all the required packages specified in the package.jso
 
 #### Step 6: Run Setup Script
 
-While still in the /backend directory of the project, execute the following command to run the setup script:
+While still in the /crud_sample directory of the project, execute the following command to run the setup script:
 
 ```bash
 npm run setup
@@ -73,7 +73,7 @@ This command will start the backend server, and it will listen for incoming requ
 Open a new terminal window , and run the following command to install the frontend dependencies:
 
 ```bash
-cd frontend
+cd login
 ```
 
 ```bash
