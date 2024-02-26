@@ -3,7 +3,7 @@
 #### Step 1: Clone the repository
 
 ```bash
-[git clone https://github.com/SureshKannan5/crud-operation/](https://github.com/SureshKannan5/crud-operation.git)
+https://github.com/SureshKannan5/crud-operation.git
 ```
 
 ```bash
